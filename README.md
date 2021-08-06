@@ -8,7 +8,7 @@ Example Code of Document Ingest using Drive API
 Example Code of Data Analysis Algorithm
 [ClassChecker.JS](https://github.com/scottcmiller/Google-App-Script-Demo/blob/61c6eaf491bbaea826f85f9fa4d898ecd965f32d/ClassChecker.js)
 
-Example Code of Creating Visual Flagging of any algorithmic modifications of data ingested data
+Example Code of Creating Visual Flagging of any algorithmic modifications of ingested data
 [DataDiscrepancies.JS](https://github.com/scottcmiller/Google-App-Script-Demo/blob/61c6eaf491bbaea826f85f9fa4d898ecd965f32d/DataDiscrepancies.js)
 
 
